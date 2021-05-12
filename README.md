@@ -26,6 +26,7 @@
 - SCM\
 ![GitHub](https://img.shields.io/badge/GitHub-black)
 ![Sourcetree](https://img.shields.io/badge/Sourcetree-informational)
+![SVN](https://img.shields.io/badge/SVN-0072b1)
 
 
 <!--
