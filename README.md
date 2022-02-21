@@ -1,32 +1,32 @@
 # i am
 
-개발 서적, 인터넷 강의, 스터디, 웹 세미나 등 지식 습득에 몰두 중인, 개발이 재밌는 2년차 웹개발자입니다.\
-현재는 백엔드 스킬 습득에 비중을 두고 있지만 궁극적으로 웹 풀스택을 희망하고 있습니다.\
-확장성 있는 설계, 직관적이고 깨끗한 코드를 지향합니다.
+개발 서적, 인터넷 강의, 스터디, 웹 세미나 등 지식 습득에 몰두 중인, 개발이 재밌는 3년차 웹개발자입니다.\
+\
+견고하고 유지보수성 있는 코드가 생산성을 높이는 길이라 생각하고 실무에 Test Code를 적용하고 있습니다.\
+함축적인 코드보다 명확한 코드를 좋아하고 타인이 알아볼 수 있는 코드를 작성하기 위해 고민하고 있습니다.\
+\
+직관적이고 깨끗한 코드를 지향합니다.궁극적으로 웹 풀스택을 희망하고 있습니다.
 
 # skill 
-- Frontend\
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white)
-![JSP](https://img.shields.io/badge/JSP-black)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white)
-![javaScript](https://img.shields.io/badge/-javaScript-F7DF1E?logo=javascript&logoColor=black)
-![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=css3&logoColor=white)    
-- Backend\
-![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white)
-![Sprint](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) 
-![JUnit](https://img.shields.io/badge/JUnit5-critical)
-![MyBatis](https://img.shields.io/badge/MyBatis-black)
-![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=Gradle&logoColor=white)
-![ApacheTomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white)
-![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white)
-![H2](https://img.shields.io/badge/H2-blue)
-- SCM\
-![GitHub](https://img.shields.io/badge/GitHub-black)
-![Sourcetree](https://img.shields.io/badge/Sourcetree-informational)
-![SVN](https://img.shields.io/badge/SVN-0072b1)
+- Frontend
+  * SSR Template ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-black)
+  * markdown ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=css3&logoColor=white)
+  * script ![javaScript](https://img.shields.io/badge/-javaScript-F7DF1E?logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white)
+    
+- Backend
+  * language ![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
+  * framework ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white)  
+  * test ![JUnit](https://img.shields.io/badge/JUnit5-critical)
+  * build tool ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=Gradle&logoColor=white) 
+  * orm ![MyBatis](https://img.shields.io/badge/MyBatis-black) ![JPA](https://img.shields.io/badge/JPA-black)
+  * ws ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-success)
+  * was ![ApacheTomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
+
+- RDBMS
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2-blue)  
+
+- DevOps 
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white) 
 
 
 <!--
