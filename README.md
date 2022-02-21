@@ -28,6 +28,8 @@
 - DevOps 
 ![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white) 
 
+- Cloud 
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white)
 
 <!--
 **nullnull0123/nullnull0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
