@@ -9,10 +9,6 @@
 선의의 씨앗을 심으면 언젠가 열매가 열리리라 생각하고 선한 영향력을 키우려고 노력하고 있습니다.
 
 # skill 
-- Frontend \
-![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) 
-![JSP](https://img.shields.io/badge/JSP-black) 
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=css3&logoColor=white)
     
 - Backend \
 ![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
@@ -36,6 +32,11 @@
 - Cloud \
 ![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white) 
 ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white)
+
+- Frontend \
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) 
+![JSP](https://img.shields.io/badge/JSP-black) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=css3&logoColor=white)
 
 
 # contact
