@@ -8,28 +8,33 @@
 직관적이고 깨끗한 코드를 지향합니다. 웹 풀스택을 희망하고 있습니다.
 
 # skill 
-- Frontend
-  * SSR Template ![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) ![JSP](https://img.shields.io/badge/JSP-black)
-  * markdown ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/-CSS3-1572B6?logo=css3&logoColor=white) ![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=css3&logoColor=white)
-  * script ![javaScript](https://img.shields.io/badge/-javaScript-F7DF1E?logo=javascript&logoColor=black) ![jQuery](https://img.shields.io/badge/-jQuery-0769AD?logo=jQuery&logoColor=white)
+- Frontend \
+![Thymeleaf](https://img.shields.io/badge/-Thymeleaf-005F0F?logo=thymeleaf&logoColor=white) 
+![JSP](https://img.shields.io/badge/JSP-black) 
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=css3&logoColor=white)
     
-- Backend
-  * language ![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) ![python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python)
-  * framework ![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/-Spring%20Boot-6DB33F?logo=Spring-Boot&logoColor=white)  
-  * test ![JUnit](https://img.shields.io/badge/JUnit5-critical)
-  * build tool ![Gradle](https://img.shields.io/badge/-Gradle-02303A?logo=Gradle&logoColor=white) 
-  * orm ![MyBatis](https://img.shields.io/badge/MyBatis-black) ![JPA](https://img.shields.io/badge/JPA-black)
-  * ws ![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-success)
-  * was ![ApacheTomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
+- Backend \
+![java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white) 
+![python](https://img.shields.io/badge/-Python-000000?style=flat&logo=Python) \
+![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring&logoColor=white) 
+![JPA](https://img.shields.io/badge/JPA-black) 
+![MyBatis](https://img.shields.io/badge/MyBatis-black) \
+![Apache](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=white) 
+![Nginx](https://img.shields.io/badge/Nginx-success) 
+![ApacheTomcat](https://img.shields.io/badge/-Apache%20Tomcat-F8DC75?logo=apache-tomcat&logoColor=black)
 
-- RDBMS
-![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) ![H2](https://img.shields.io/badge/H2-blue)  
+- DB \
+![Oracle](https://img.shields.io/badge/-Oracle-F80000?logo=oracle&logoColor=white) 
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?logo=mysql&logoColor=white) 
+![H2](https://img.shields.io/badge/H2-blue)  
 
-- DevOps 
-![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white) ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white) 
+- DevOps \
+![Jenkins](https://img.shields.io/badge/-Jenkins-D24939?logo=Jenkins&logoColor=white) 
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=Docker&logoColor=white) 
 
-- Cloud 
-![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white) ![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white)
+- Cloud \
+![Google Cloud](https://img.shields.io/badge/-Google%20Cloud-4285F4?logo=Google%20Cloud&logoColor=white) 
+![AWS](https://img.shields.io/badge/-Amazon%20AWS-232F3E?logo=Amazon%20AWS&logoColor=white)
 
 <!--
 **nullnull0123/nullnull0123** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
